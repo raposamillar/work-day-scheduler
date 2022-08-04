@@ -16,10 +16,9 @@ hours.forEach((hour,i) => {
                 ${hour}
             </div>
             <textarea class="${rH<H ? 'past' : rH>H ? 'future' : 'present'}">
-            
             </textarea>
             <div class="saveBtn">
-            
+              <i class="fa fa-lock fa-2x"></i>
             </div>
         </div>
     `
