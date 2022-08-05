@@ -23,3 +23,4 @@ hours.forEach((hour,i) => {
         </div>
     `
 });
+
